@@ -1,0 +1,41 @@
+body {
+    background-color:mintcream;
+    max-width: 900px;
+    margin: auto;
+}
+
+.photo{
+    border: 1px solid #505050;
+    border-radius: 50%;
+    margin:15px
+}
+
+#title {
+    padding: 3px;
+    font-family: Verdana;
+    font-size: 20px;
+    font-style: italic;
+    margin: 15px;
+    margin-bottom: 15px;
+}
+
+.post{
+    border:3px solid #505050;
+    padding: 10px;
+    background-color: white;
+    font-family:Verdana;
+    font-size: 15px;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.subtitle{
+    font-style: italic;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+.image{
+    border: 3px solid #505050;
+    width: 100%;
+}
